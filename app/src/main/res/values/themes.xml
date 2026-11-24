@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.App" parent="android:Theme.Material.NoActionBar">
-        <item name="android:windowBackground">@color/space</item>
-        <item name="android:statusBarColor">@color/space</item>
-        <item name="android:navigationBarColor">@color/space</item>
+    <style name="Theme.TwinStar" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/void_black</item>
+        <item name="android:statusBarColor">@color/void_black</item>
+        <item name="android:navigationBarColor">@color/void_black</item>
+        <item name="android:colorAccent">@color/accent_default</item>
     </style>
-    <color name="space">#FF070A14</color>
-    <color name="icon_bg">#FF0B1022</color>
 </resources>
